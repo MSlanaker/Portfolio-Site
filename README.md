@@ -1,6 +1,5 @@
 # # Portfolio Homepage
 ## Description
-Created first draft of a profile site.
 - Uses media queries to dynamically change based on user device
 - Features about me, work, and contact sections
 - Uses semantic HTML to outline the site
