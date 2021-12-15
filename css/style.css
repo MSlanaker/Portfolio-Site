@@ -418,7 +418,7 @@ header {
   background-color: #5cdb95;
   font-family: var(--ff-secondary);
   color: var(--clr-light);
-  text-decoration: none;
+  /* text-decoration: none; */
 }
 
 /* Footer */
