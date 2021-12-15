@@ -414,6 +414,13 @@ header {
   opacity: 0.75;
 }
 
+.deployed_link {
+  background-color: #5cdb95;
+  font-family: var(--ff-secondary);
+  color: var(--clr-light);
+  text-decoration: none;
+}
+
 /* Footer */
 
 .footer {
