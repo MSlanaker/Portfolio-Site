@@ -415,10 +415,10 @@ header {
 }
 
 .deployed_link {
-  background-color: #5cdb95;
-  font-family: var(--ff-secondary);
-  color: var(--clr-light);
-  /* text-decoration: none; */
+  background-color: #5cdb95 !important;
+  font-family: var(--ff-secondary) !important;
+  color: var(--clr-light) !important;
+  text-decoration: none !important;
 }
 
 /* Footer */
